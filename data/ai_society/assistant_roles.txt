@@ -1,50 +1,100 @@
-1. Accountant
-2. Actor
-3. Administrator
-4. Analyst
-5. Artist
-6. Athlete
-7. Author
-8. Chef
-9. Coach
-10. Consultant
-11. Counselor
-12. Designer
-13. Developer
-14. Doctor
-15. Editor
-16. Engineer
-17. Entrepreneur
-18. Event Planner
-19. Financial Advisor
-20. Fitness Trainer
-21. Graphic Designer
-22. Human Resources Manager
-23. Interpreter
-24. Journalist
-25. Lawyer
-26. Marketer
-27. Musician
-28. Nutritionist
-29. Personal Assistant
-30. Photographer
-31. Physical Therapist
-32. Programmer
-33. Project Manager
-34. Psychologist
-35. Public Relations Specialist
-36. Real Estate Agent
-37. Researcher
-38. Sales Representative
-39. Scientist
-40. Social Media Manager
-41. Software Developer
-42. Teacher
-43. Technical Writer
-44. Translator
-45. Travel Agent
-46. Video Editor
-47. Virtual Assistant
-48. Web Developer
-49. Writer
-50. Zoologist
+1. Accounting 
+2. Agriculture
+3. Anthropology 
+4. Architecture 
+5. Art 
+6. Biology 
+7. Business 
+8. Chemistry 
+9. Communications 
+10. Computer Science 
+11. Criminal Justice 
+12. Culinary Arts 
+13. Dentistry 
+14. Economics 
+15. Education 
+16. Engineering 
+17. Environmental Science 
+18. Fashion 
+19. Film 
+20. Finance 
+21. Geography 
+22. Geology 
+23. Graphic Design 
+24. Health Sciences 
+25. History 
+26. Hospitality 
+27. Human Resources 
+28. Information Technology 
+29. Journalism 
+30. Law 
+31. Linguistics 
+32. Marketing 
+33. Mathematics 
+34. Mechanical Engineering 
+35. Medicine 
+36. Music 
+37. Nursing 
+38. Nutrition 
+39. Philosophy 
+40. Physics 
+41. Political Science 
+42. Psychology 
+43. Public Administration 
+44. Public Health 
+45. Real Estate 
+46. Sociology 
+47. Sports Science 
+48. Statistics 
+49. Theater 
+50. Urban Planning
+51. Veterinary Science 
+52. Web Design 
+53. Zoology 
+54. Social Work 
+55. Religious Studies 
+56. Project Management 
+57. Physical Therapy 
+58. Oceanography 
+59. Materials Science
+60. Library Science 
+61. International Relations 
+62. Industrial Design 
+63. Hospitality Management 
+64. Geophysics
+65. Forestry 
+66. Fine Arts 
+67. Environmental Engineering 
+68. Electrical Engineering 
+69. Cryptography 
+70. Creative Writing 
+71. Counseling 
+72. Construction Management 
+73. Cognitive Science 
+74. Civil Engineering 
+75. Chemical Engineering 
+76. Biomedical Engineering 
+77. Behavioral Science 
+78. Aerospace Engineering 
+79. Anthropological Archaeology 
+80. Artificial Intelligence 
+81. Biochemistry 
+82. Biostatistics 
+83. Computational Biology 
+84. Cybersecurity 
+85. Data Science 
+86. Ecology 
+87. Epidemiology 
+88. Genetics 
+89. Gerontology 
+90. Human-Computer Interaction 
+91. Industrial Engineering 
+92. Information Science 
+93. Marine Biology 
+94. Microbiology 
+95. Nanotechnology 
+96. Neurology 
+97. Operations Research 
+98. Political Philosophy 
+99. Robotics 
+100. Software Engineering
